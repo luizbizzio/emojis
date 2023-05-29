@@ -1,2 +1,2 @@
 # Emojis
-Emoji assets from Apple, Facebook, Google, Messenger, Twitter and Emoji Kitchen
+Emoji assets - Apple, Facebook, Google, Messenger, Twitter and Emoji Kitchen
