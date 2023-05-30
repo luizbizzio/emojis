@@ -1,5 +1,5 @@
 # Emojis
-Emoji assets:
+Emoji PNG assets:
 * Apple 
 * Facebook
 * Google
