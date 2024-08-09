@@ -1,4 +1,4 @@
-# Emoji PNG Assets
+# Emoji PNG Assets 😃
 
 This repository contains PNG assets of emojis from various sources:
 
