@@ -4,7 +4,7 @@
 
 ## **Apple**
 <img src="/apple/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
-<img src="/apple/🎲.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
+<img src="/apple/🎁.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/apple/🐢.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/apple/🍔.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/apple/❤️.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
@@ -12,7 +12,7 @@
 
 ## **Facebook**
 <img src="/facebook/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
-<img src="/facebook/🎲.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
+<img src="/facebook/🎁.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/facebook/🐢.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/facebook/🍔.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/facebook/❤️.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
@@ -20,7 +20,7 @@
 
 ## **Google**
 <img src="/google/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
-<img src="/google/🎲.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
+<img src="/google/🎁.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/google/🐢.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/google/🍔.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/google/❤️.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
@@ -28,7 +28,7 @@
 
 ## **Messenger**
 <img src="/messenger/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
-<img src="/messenger/🎲.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
+<img src="/messenger/🎁.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/messenger/🐢.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/messenger/🍔.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/messenger/❤️.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
@@ -36,7 +36,7 @@
 
 ## **Twitter**
 <img src="/twitter/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
-<img src="/twitter/🎲.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
+<img src="/twitter/🎁.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/twitter/🐢.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/twitter/🍔.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
 <img src="/twitter/❤️.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
