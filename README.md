@@ -54,6 +54,9 @@
 With Emoji Kitchen, you can mix different emojis to create unique and interesting results.
 
 
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
