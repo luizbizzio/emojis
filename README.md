@@ -1,6 +1,7 @@
 # Emoji PNG Assets 😃
 
-**Note:**  This repository serves as a library of PNG emoji assets collected from various sources. Please note that these assets are not created or owned by me, but are provided here for convenience and easy access.
+**Note**: This repository serves as a library of PNG emoji assets collected from various sources. Please note that these assets are not created or owned by me, and are provided here solely for convenience and easy access. All rights to the emoji assets belong to their respective copyright holders. Usage of these assets is subject to the terms and conditions set by the original creators.
+
 
 ## **Apple**
 <img src="/apple/😊.png" alt="emoji" width="100" height="100">&nbsp; &nbsp; &nbsp;
