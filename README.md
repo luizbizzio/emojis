@@ -20,6 +20,11 @@ This repository contains the following emoji sets:
 This repository contains approximately **9.9 GB** of data, organized as follows:
 
 - The repository is divided into three main directories: `emoji`, `name`, and `unicode`.
+
+  - **emoji**: Contains emoji files named visually by their respective emoji character (e.g., ⭐.png).
+  - **name**: Contains emoji files named using descriptive names (e.g., `star.png`).
+  - **unicode**: Contains emoji files named based on their Unicode representation (e.g., `2b50.png`).
+  
 - Inside each directory, you will find subfolders for each emoji set (e.g., `Noto-Emoji`, `Twemoji`).
 - Each subfolder contains all published versions of the respective emoji set, not just the most recent version.
 
