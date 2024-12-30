@@ -17,7 +17,7 @@ This repository contains the following emoji sets:
 
 > **Note**: The links to the full licensing terms for each emoji set are provided below and in the details section. Please review them to ensure compliance with the terms.
 
-This repository contains approximately **12.9 GB** of data, organized as follows:
+This repository contains approximately **9.9 GB** of data, organized as follows:
 
 - The repository is divided into three main directories: `emoji`, `name`, and `unicode`.
 - Inside each directory, you will find subfolders for each emoji set (e.g., `Noto-Emoji`, `Twemoji`).
