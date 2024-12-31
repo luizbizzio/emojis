@@ -1,4 +1,4 @@
-# Emoji Licensing Guide
+# Emoji Licensing Guide 📙
 
 Welcome to the Emoji Licensing Repository! This project provides a detailed breakdown and categorization of popular emoji sets based on their licensing terms, making it easier for developers, designers, and organizations to understand which sets can be used for personal or commercial projects.
 
@@ -49,8 +49,6 @@ The table below summarizes the licensing information for each set:
 
 - **License**: SIL Open Font License 1.1.
 - **Use Restrictions**: Commercial and personal use allowed. Highly permissive with no attribution required.
-
-Below are sample emojis from the Noto-Emoji set:
 
   <img src="./emoji/noto-emoji/16.0/😀.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🌋.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🔫.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🐍.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🙉.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🥪.jpg" width="100" />
 
@@ -120,8 +118,8 @@ However, please note that the emojis included in this repository are subject to 
 - **[OpenMoji](https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt)**: CC BY-SA 4.0
 - **[SerenityOS Emoji](https://github.com/linusg/serenityos-emoji-font/blob/main/LICENSE)**: BSD 2-Clause
 - **[Mozilla Emoji](https://github.com/mozilla/fxemoji/blob/gh-pages/LICENSE.md)**: CC BY 4.0 / Apache 2.0
-- **[Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8)**: Custom licensing
-- **[JoyPixels](https://joypixels.com/licenses)**: Custom licensing
-- **[JoyPixels Animations](https://joypixels.com/licenses)**: Custom licensing
+- **[Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8)**: Custom licensing Agreement
+- **[JoyPixels](https://joypixels.com/licenses)**: JoyPixels Licensing
+- **[JoyPixels Animations](https://joypixels.com/licenses)**: JoyPixels Licensing
 
 
