@@ -1,6 +1,6 @@
 # Emoji Licensing Guide
 
-Welcome to the Emoji Licensing Repository! This project organizes and categorizes popular emoji sets based on their licensing terms, making it easier to understand which sets you can use for personal or commercial projects.
+Welcome to the Emoji Licensing Repository! This project provides a detailed breakdown and categorization of popular emoji sets based on their licensing terms, making it easier for developers, designers, and organizations to understand which sets can be used for personal or commercial projects.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains the following emoji sets:
 
 > **Note**: The links to the full licensing terms for each emoji set are provided below and in the details section. Please review them to ensure compliance with the terms.
 
-This repository contains approximately **9.9 GB** of data, organized as follows:
+This repository contains approximately **11.4 GB** of data, organized as follows:
 
 - The repository is divided into three main directories: `emoji`, `name`, and `unicode`.
 
@@ -49,6 +49,8 @@ The table below summarizes the licensing information for each set:
 
 - **License**: SIL Open Font License 1.1.
 - **Use Restrictions**: Commercial and personal use allowed. Highly permissive with no attribution required.
+
+Below are sample emojis from the Noto-Emoji set:
 
   <img src="./emoji/noto-emoji/16.0/😀.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🌋.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🔫.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🐍.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🙉.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🥪.jpg" width="100" />
 
@@ -107,4 +109,19 @@ This repository is for informational purposes only. I am not affiliated with or 
 ## Contributions
 
 Contributions are welcome! If you find any errors or have updates to share, feel free to open an issue or submit a pull request.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).  
+However, please note that the emojis included in this repository are subject to their own licenses, as listed below:
+
+- **[Noto Emoji](https://github.com/googlefonts/noto-emoji/blob/main/fonts/LICENSE)**: SIL Open Font License 1.1
+- **[Twemoji](https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS)**: CC BY 4.0
+- **[OpenMoji](https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt)**: CC BY-SA 4.0
+- **[SerenityOS Emoji](https://github.com/linusg/serenityos-emoji-font/blob/main/LICENSE)**: BSD 2-Clause
+- **[Mozilla Emoji](https://github.com/mozilla/fxemoji/blob/gh-pages/LICENSE.md)**: CC BY 4.0 / Apache 2.0
+- **[Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8)**: Custom licensing
+- **[JoyPixels](https://joypixels.com/licenses)**: Custom licensing
+- **[JoyPixels Animations](https://joypixels.com/licenses)**: Custom licensing
+
 
