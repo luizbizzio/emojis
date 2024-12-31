@@ -85,7 +85,7 @@ The table below summarizes the licensing information for each set:
 - **License**: Custom licensing.
 - **Use Restrictions**: Free for non-commercial use with attribution. Commercial use requires a license.
 
-  <img src="./emoji/icons8/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🥪.png" width="100" />
+  <img src="./emoji/icons8/😃.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🥪.png" width="100" />
 
 ### [JoyPixels](https://joypixels.com/licenses)
 
