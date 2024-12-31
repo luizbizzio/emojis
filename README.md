@@ -50,45 +50,58 @@ The table below summarizes the licensing information for each set:
 - **License**: SIL Open Font License 1.1.
 - **Use Restrictions**: Commercial and personal use allowed. Highly permissive with no attribution required.
 
-![noto-emoji](./name/noto-emoji/happy.png)
+  <img src="./emoji/noto-emoji/16.0/😀.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🌋.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🔫.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🐍.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🙉.jpg" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/noto-emoji/16.0/🥪.jpg" width="100" />
 
 ### [Twemoji](https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS)
 
 - **License**: CC BY 4.0.
 - **Use Restrictions**: Commercial and personal use allowed with attribution.
 
+  <img src="./emoji/twemoji/15.0.3/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/twemoji/15.0.3/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/twemoji/15.0.3/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/twemoji/15.0.3/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/twemoji/15.0.3/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/twemoji/15.0.3/🥪.png" width="100" />
+
 ### [OpenMoji](https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt)
 
 - **License**: CC BY-SA 4.0.
 - **Use Restrictions**: Commercial and personal use allowed with attribution. Derivatives must be licensed under the same terms.
+
+  <img src="./emoji/openmoji/15.1/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/openmoji/15.1/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/openmoji/15.1/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/openmoji/15.1/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/openmoji/15.1/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/openmoji/15.1/🥪.png" width="100" />
 
 ### [SerenityOS](https://github.com/linusg/serenityos-emoji-font/blob/main/LICENSE)
 
 - **License**: BSD 2-Clause.
 - **Use Restrictions**: Commercial and personal use allowed with attribution. Redistribution must include a copyright notice.
 
+  <img src="./emoji/serenityos/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/serenityos/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/serenityos/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/serenityos/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/serenityos/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/serenityos/🥪.png" width="100" />
+
 ### [Mozilla](https://github.com/mozilla/fxemoji/blob/gh-pages/LICENSE.md)
 
 - **License**: CC BY 4.0 / Apache 2.0.
 - **Use Restrictions**: Commercial use allowed with attribution. Some assets may be governed by the Apache 2.0 license.
+
+  <img src="./emoji/mozilla/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/mozilla/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/mozilla/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/mozilla/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/mozilla/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/mozilla/🍔.png" width="100" />
 
 ### [Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8)
 
 - **License**: Custom licensing.
 - **Use Restrictions**: Free for non-commercial use with attribution. Commercial use requires a license.
 
+  <img src="./emoji/icons8/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/icons8/🥪.png" width="100" />
+
 ### [JoyPixels](https://joypixels.com/licenses)
 
 - **License**: Custom licensing.
 - **Use Restrictions**: Free for personal, non-commercial use. Commercial use requires a license.
+
+  <img src="./emoji/joypixels/9.0/😀.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels/9.0/🌋.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels/9.0/🔫.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels/9.0/🐍.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels/9.0/🙉.png" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels/9.0/🥪.png" width="100" />
 
 ### [JoyPixels-Animations](https://joypixels.com/licenses)
 
 - **License**: Custom licensing.
 - **Use Restrictions**: Same rules as static JoyPixels; animations require a license for commercial use.
 
-## Disclaimer
+  <img src="./emoji/joypixels-animations/3.5/😄.gif" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels-animations/3.5/🌋.gif" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels-animations/3.5/🔫.gif" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels-animations/3.5/🐍.gif" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels-animations/3.5/🙉.gif" width="100" />&nbsp;&nbsp;&nbsp;<img src="./emoji/joypixels-animations/3.5/🥪.gif" width="100" />
 
+## Disclaimer
 This repository is for informational purposes only. I am not affiliated with or endorsed by any of the companies or projects mentioned. If you represent a company and wish to have your content removed, please contact me, and I will address your request promptly.
 
 ## Contributions
