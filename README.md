@@ -108,7 +108,7 @@ This repository is for informational purposes only. I am not affiliated with or 
 
 Contributions are welcome! If you find any errors or have updates to share, feel free to open an issue or submit a pull request.
 
-## License
+## License 📄
 
 This repository is licensed under the [MIT License](LICENSE).  
 However, please note that the emojis included in this repository are subject to their own licenses, as listed below:
