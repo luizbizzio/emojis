@@ -1,6 +1,12 @@
 <h1 align="center">Emoji Licensing Guide 📙</h1>
 
-This repository is a guide about **emoji artwork licensing**.
+<p align="center">
+  This repository is a guide about <strong>emoji artwork licensing</strong>.
+</p>
+
+<p align="center">
+  <img src="emoji-licensing-guide-cover.png" alt="Emoji Licensing Guide banner" width="80%">
+</p>
 
 It does **not** include emoji image files (no PNG/SVG/GIF in this repo).  
 If you need emoji assets, follow the sources below and download from the official projects.
