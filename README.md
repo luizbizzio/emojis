@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="emoji-licensing-guide-cover.png" alt="Emoji Licensing Guide banner" width="80%">
+  <img src="emoji-licensing-guide-cover.png" alt="Emoji Licensing Guide banner" width="100%">
 </p>
 
 It does **not** include emoji image files (no PNG/SVG/GIF in this repo).  
